@@ -24,26 +24,26 @@ This repository contains the following files and directories:
 ### 3. **Data Cleaning Queries** (`Data Cleaning Queries/`)
 - SQL scripts used to clean the dataset, remove duplicates, and correct inconsistencies.
 - **Instructions:**
-  - Click on any `.sql` file to view the queries.
-  - Run in PostgreSQL to replicate the cleaning process.
+  - Screenshots of **SQL queries** used to clean the dataset.
+   - Queries address duplicate records, renumbering IDs, and fixing data inconsistencies.
 
 ### 4. **Data Integrity Queries** (`Data Integrity Queries/`)
 - SQL queries used to check for missing values, duplicate IDs, and orphaned records.
 - **Instructions:**
-  - Click on any `.sql` file to view the queries.
-  - Run in PostgreSQL for integrity validation.
+  - Screenshots of **SQL queries** used to check for missing, inconsistent, or orphaned records.
+   - This step ensured all primary and foreign keys aligned correctly.
 
 ### 5. **Data Validation Queries** (`Data Validation Queries/`)
 - SQL queries used to validate the correctness of links between tables.
 - **Instructions:**
-  - Click on any `.sql` file to view the queries.
-  - Run in PostgreSQL for validation checks.
+  - Screenshots of **SQL queries** used to verify the correctness of the cleaned dataset.
+   - Focuses on confirming patient-doctor relationships, appointment tracking, and billing consistency.
 
 ### 6. **Data Analysis Queries** (`Data Analysis Queries/`)
 - SQL queries used for insights on patient trends, doctor workloads, and appointment distributions.
 - **Instructions:**
-  - Click on any `.sql` file to view the queries.
-  - Run in PostgreSQL for insights and reporting.
+  - Screenshots of **SQL queries** used for exploratory data analysis.
+   - Includes queries on appointment trends, doctor workloads, and procedural insights.
 
 ---
 
@@ -183,13 +183,6 @@ Additional integrity findings:
 **3. Address Doctor Workload**
 - Over 38% of doctors have **zero** appointments—re-evaluate staffing needs.
 
----
+-Feel free to explore the queries and datasets in the repository.
 
-### 📌 **Final Steps**
-- **Review the data files** in the repository.
-- **Use the SQL queries** to replicate the analysis.
-- **Follow recommendations** to improve future dataset quality.
 
----
-
-Feel free to explore the queries and datasets in the repository.
