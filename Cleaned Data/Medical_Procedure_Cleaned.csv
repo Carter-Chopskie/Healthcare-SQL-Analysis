@@ -1,0 +1,1001 @@
+"procedure_id","procedure_name","appointment_id"
+100,"Emergency surgical procedures",848
+101,"General surgery",514
+102,"Immunizations",129
+103,"Emergency surgical procedures",677
+104,"Endoscopy",969
+105,"Colonoscopy",505
+106,"Allergy testing",918
+107,"Endoscopy",500
+108,"Laser therapy for skin conditions",130
+109,"Comprehensive geriatric assessment",441
+110,"Radiation therapy",998
+111,"General health check-ups",363
+112,"Polypharmacy management",673
+113,"Rhinoplasty",638
+114,"General anesthesia for surgeries",648
+115,"Epidural analgesia during labor",257
+116,"Rhinoplasty",677
+117,"Comprehensive geriatric assessment",707
+118,"Medication management",213
+119,"Thyroid biopsy",141
+120,"Angioplasty and stent placement",770
+121,"X-rays, CT scans, MRI scans",362
+122,"Lumbar puncture",690
+123,"Epidural anesthesia for pain management",180
+124,"Lumbar puncture",726
+125,"Anesthetic care during childbirth",797
+126,"Advanced cardiac life support",253
+127,"LASIK eye surgery",371
+128,"Liver biopsy",677
+129,"Anesthetic care during childbirth",865
+130,"Pacemaker implantation",547
+131,"Angioplasty and stent placement",691
+132,"Cosmetic procedures (e.g., Botox, fillers)",884
+133,"Thyroid biopsy",178
+134,"Endoscopy",348
+135,"Angioplasty and stent placement",654
+136,"General surgery",744
+137,"Chemotherapy",212
+138,"Retinal surgery",475
+139,"Rhinoplasty",218
+140,"Dialysis",622
+141,"Cataract surgery",478
+142,"Hormone replacement therapy",877
+143,"Colonoscopy",103
+144,"Coronary artery bypass surgery",370
+145,"Advanced cardiac life support",372
+146,"Endoscopy",397
+147,"Thyroid biopsy",184
+148,"Laser therapy for skin conditions",800
+149,"Coronary artery bypass surgery",481
+150,"Tonsillectomy and adenoidectomy",172
+151,"Insulin pump management for diabetes",199
+152,"Nephrectomy",238
+153,"Minor surgical procedures",735
+154,"Cosmetic procedures (e.g., Botox, fillers)",894
+155,"Comprehensive geriatric assessment",829
+156,"Surgical oncology",272
+157,"Radiation therapy",521
+158,"LASIK eye surgery",939
+159,"Dialysis",262
+160,"Medication management",505
+161,"Insulin pump management for diabetes",398
+162,"Trauma resuscitation",135
+163,"Chemotherapy",207
+164,"Interventional radiology procedures",287
+165,"Advanced cardiac life support",994
+166,"Psychotherapy",792
+167,"Comprehensive geriatric assessment",350
+168,"MRI for brain imaging",104
+169,"Plastic surgery",356
+170,"Chemotherapy",360
+171,"Chemotherapy",556
+172,"Radiation therapy",331
+173,"Comprehensive geriatric assessment",991
+174,"Intensive care management",353
+175,"General anesthesia for surgeries",858
+176,"Cochlear implant surgery",999
+177,"Tonsillectomy and adenoidectomy",632
+178,"Coronary artery bypass surgery",799
+179,"Interventional radiology procedures",878
+180,"Allergy testing",431
+181,"Endoscopy",926
+182,"Liver biopsy",681
+183,"Epidural analgesia during labor",591
+184,"Comprehensive geriatric assessment",801
+185,"Dermatologic surgery",327
+186,"Intensive care management",202
+187,"Interventional radiology procedures",352
+188,"Endoscopy",135
+189,"Immunizations",364
+190,"Symptom management for end-of-life care",711
+191,"EEG (Electroencephalogram)",230
+192,"Nephrectomy",239
+193,"Epidural anesthesia for pain management",347
+194,"Immunotherapy (allergy shots)",649
+195,"Epidural anesthesia for pain management",272
+196,"Pacemaker implantation",881
+197,"Cataract surgery",137
+198,"Dementia care",572
+199,"Polypharmacy management",640
+200,"Plastic surgery",141
+201,"Kidney transplant",844
+202,"Cataract surgery",545
+203,"Anesthetic care during childbirth",307
+204,"Epidural analgesia during labor",785
+205,"Cosmetic procedures (e.g., Botox, fillers)",442
+206,"Hemodynamic monitoring",439
+207,"General health check-ups",363
+208,"Dementia care",935
+209,"Interventional radiology procedures",327
+210,"Colonoscopy",524
+211,"Tonsillectomy and adenoidectomy",237
+212,"X-rays, CT scans, MRI scans",861
+213,"Endoscopy",779
+214,"Hormone replacement therapy",830
+215,"Pediatric surgery",983
+216,"Electroconvulsive therapy (ECT)",872
+217,"Epidural analgesia during labor",526
+218,"Dermatologic surgery",739
+219,"Immunizations",435
+220,"Hormone replacement therapy",315
+221,"Chemotherapy",736
+222,"Hormone replacement therapy",765
+223,"Plastic surgery",982
+224,"Plastic surgery",811
+225,"Endoscopy",651
+226,"Insulin pump management for diabetes",797
+227,"Dialysis",302
+228,"Psychotherapy",714
+229,"Pediatric surgery",173
+230,"Trauma resuscitation",695
+231,"Colonoscopy",119
+232,"Medication management",251
+233,"Dialysis",778
+234,"Cochlear implant surgery",985
+235,"Cochlear implant surgery",233
+236,"Trauma resuscitation",463
+237,"Angioplasty and stent placement",344
+238,"LASIK eye surgery",856
+239,"Cosmetic procedures (e.g., Botox, fillers)",563
+240,"Colonoscopy",583
+241,"Chemotherapy",435
+242,"General anesthesia for surgeries",287
+243,"Electroconvulsive therapy (ECT)",420
+244,"Coronary artery bypass surgery",235
+245,"General surgery",185
+246,"Coronary artery bypass surgery",891
+247,"Advanced cardiac life support",707
+248,"Dialysis",808
+249,"Polypharmacy management",530
+250,"General health check-ups",800
+251,"Allergy testing",390
+252,"Liver biopsy",826
+253,"Sedation for minor procedures",199
+254,"Comprehensive geriatric assessment",243
+255,"Comprehensive geriatric assessment",105
+256,"Comprehensive geriatric assessment",172
+257,"Psychotherapy",154
+258,"Hemodynamic monitoring",935
+259,"Dermatologic surgery",818
+260,"General health check-ups",592
+261,"Dialysis",921
+262,"Mechanical ventilation",626
+263,"Chronic disease management",462
+264,"Liver biopsy",549
+265,"Dermatologic surgery",987
+266,"Rhinoplasty",307
+267,"Cochlear implant surgery",642
+268,"Well-child check-ups",717
+269,"Insulin pump management for diabetes",916
+270,"Angioplasty and stent placement",266
+271,"Dermatologic surgery",873
+272,"Hemodynamic monitoring",461
+273,"Advanced cardiac life support",394
+274,"Cosmetic procedures (e.g., Botox, fillers)",616
+275,"Laser therapy for skin conditions",360
+276,"LASIK eye surgery",883
+277,"Dialysis",209
+278,"General surgery",555
+279,"Angioplasty and stent placement",733
+280,"Colonoscopy",875
+281,"Kidney transplant",285
+282,"Coronary artery bypass surgery",994
+283,"Pacemaker implantation",469
+284,"Chronic disease management",311
+285,"Emergency surgical procedures",539
+286,"Angioplasty and stent placement",669
+287,"General surgery",573
+288,"Immunizations",981
+289,"Hemodynamic monitoring",552
+290,"Allergy testing",198
+291,"Sedation for minor procedures",433
+292,"Minor surgical procedures",575
+293,"Advanced cardiac life support",713
+294,"Allergy testing",663
+295,"Surgical oncology",376
+296,"MRI for brain imaging",811
+297,"Thyroid biopsy",662
+298,"Colonoscopy",197
+299,"Dermatologic surgery",167
+300,"Coronary artery bypass surgery",464
+301,"Comprehensive geriatric assessment",800
+302,"Epidural analgesia during labor",951
+303,"Liver biopsy",236
+304,"Laser therapy for skin conditions",795
+305,"Cochlear implant surgery",358
+306,"EEG (Electroencephalogram)",104
+307,"General surgery",459
+308,"Retinal surgery",754
+309,"Coronary artery bypass surgery",982
+310,"Comprehensive geriatric assessment",340
+311,"Colonoscopy",709
+312,"Surgical oncology",339
+313,"Colonoscopy",859
+314,"Cosmetic procedures (e.g., Botox, fillers)",979
+315,"Anesthetic care during childbirth",697
+316,"Intensive care management",215
+317,"Colonoscopy",484
+318,"Liver biopsy",139
+319,"Angioplasty and stent placement",417
+320,"Pediatric surgery",933
+321,"Emotional and spiritual support",641
+322,"Polypharmacy management",291
+323,"Immunizations",323
+324,"Hormone replacement therapy",356
+325,"Surgical oncology",746
+326,"Cataract surgery",651
+327,"Insulin pump management for diabetes",141
+328,"Coronary artery bypass surgery",772
+329,"Radiation therapy",990
+330,"Cosmetic procedures (e.g., Botox, fillers)",544
+331,"Angioplasty and stent placement",503
+332,"Polypharmacy management",188
+333,"Epidural anesthesia for pain management",360
+334,"Dialysis",258
+335,"Nephrectomy",251
+336,"Angioplasty and stent placement",959
+337,"Pacemaker implantation",834
+338,"Chronic disease management",818
+339,"Laser therapy for skin conditions",875
+340,"Colonoscopy",824
+341,"Well-child check-ups",223
+342,"Coronary artery bypass surgery",196
+343,"General health check-ups",871
+344,"Emotional and spiritual support",209
+345,"Minor surgical procedures",653
+346,"Surgical oncology",305
+347,"Kidney transplant",955
+348,"Dementia care",853
+349,"Angioplasty and stent placement",885
+350,"Comprehensive geriatric assessment",403
+351,"Anesthetic care during childbirth",103
+352,"EEG (Electroencephalogram)",628
+353,"Nephrectomy",811
+354,"Cataract surgery",139
+355,"Interventional radiology procedures",921
+356,"Epidural analgesia during labor",768
+357,"Comprehensive geriatric assessment",440
+358,"Colonoscopy",920
+359,"Minor surgical procedures",324
+360,"Well-child check-ups",383
+361,"Retinal surgery",139
+362,"Electroconvulsive therapy (ECT)",787
+363,"Interventional radiology procedures",254
+364,"Epidural analgesia during labor",208
+365,"Dermatologic surgery",956
+366,"Kidney transplant",919
+367,"Chronic disease management",505
+368,"Intensive care management",227
+369,"Advanced cardiac life support",632
+370,"Immunotherapy (allergy shots)",494
+371,"Dialysis",120
+372,"Sedation for minor procedures",372
+373,"Emergency surgical procedures",661
+374,"Dialysis",164
+375,"Comprehensive geriatric assessment",419
+376,"Retinal surgery",595
+377,"Well-child check-ups",527
+378,"Cosmetic procedures (e.g., Botox, fillers)",596
+379,"Dermatologic surgery",379
+380,"Rhinoplasty",429
+381,"Chemotherapy",641
+382,"Anesthetic care during childbirth",611
+383,"General surgery",815
+384,"Immunizations",478
+385,"Allergy testing",519
+386,"Pediatric surgery",995
+387,"Interventional radiology procedures",991
+388,"Well-child check-ups",393
+389,"Emergency surgical procedures",536
+390,"EEG (Electroencephalogram)",305
+391,"Dermatologic surgery",309
+392,"Chemotherapy",273
+393,"Laser therapy for skin conditions",181
+394,"Sedation for minor procedures",911
+395,"Tonsillectomy and adenoidectomy",466
+396,"Laser therapy for skin conditions",725
+397,"Advanced cardiac life support",923
+398,"Interventional radiology procedures",726
+399,"Nephrectomy",781
+400,"Medication management",640
+401,"Medication management",620
+402,"Endoscopy",655
+403,"Epidural analgesia during labor",715
+404,"Trauma resuscitation",234
+405,"Cochlear implant surgery",317
+406,"Lumbar puncture",286
+407,"Chronic disease management",564
+408,"Coronary artery bypass surgery",446
+409,"Immunotherapy (allergy shots)",122
+410,"MRI for brain imaging",595
+411,"Intensive care management",877
+412,"Pacemaker implantation",554
+413,"General anesthesia for surgeries",124
+414,"Polypharmacy management",573
+415,"Chronic disease management",937
+416,"X-rays, CT scans, MRI scans",270
+417,"Advanced cardiac life support",201
+418,"Cochlear implant surgery",781
+419,"Symptom management for end-of-life care",683
+420,"Thyroid biopsy",707
+421,"Advanced cardiac life support",882
+422,"Allergy testing",637
+423,"Plastic surgery",593
+424,"Angioplasty and stent placement",232
+425,"Anesthetic care during childbirth",506
+426,"General anesthesia for surgeries",458
+427,"Liver biopsy",971
+428,"Hemodynamic monitoring",955
+429,"Trauma resuscitation",774
+430,"Dermatologic surgery",770
+431,"Emergency surgical procedures",988
+432,"Cosmetic procedures (e.g., Botox, fillers)",607
+433,"Allergy testing",701
+434,"Coronary artery bypass surgery",598
+435,"Angioplasty and stent placement",842
+436,"Polypharmacy management",627
+437,"EEG (Electroencephalogram)",377
+438,"MRI for brain imaging",664
+439,"Hormone replacement therapy",649
+440,"Cataract surgery",462
+441,"Coronary artery bypass surgery",237
+442,"Cochlear implant surgery",105
+443,"Cochlear implant surgery",908
+444,"Trauma resuscitation",421
+445,"Electroconvulsive therapy (ECT)",688
+446,"Pediatric surgery",450
+447,"Cochlear implant surgery",342
+448,"Sedation for minor procedures",870
+449,"Emotional and spiritual support",757
+450,"X-rays, CT scans, MRI scans",660
+451,"Advanced cardiac life support",351
+452,"Chronic disease management",302
+453,"Intensive care management",526
+454,"Minor surgical procedures",526
+455,"Coronary artery bypass surgery",960
+456,"Intensive care management",944
+457,"Endoscopy",152
+458,"Allergy testing",928
+459,"X-rays, CT scans, MRI scans",494
+460,"Orthopedic surgery",974
+461,"Colonoscopy",634
+462,"Cataract surgery",604
+463,"Orthopedic surgery",139
+464,"Electroconvulsive therapy (ECT)",531
+465,"Insulin pump management for diabetes",839
+466,"Interventional radiology procedures",308
+467,"Hemodynamic monitoring",267
+468,"Epidural analgesia during labor",572
+469,"Emergency surgical procedures",648
+470,"Minor surgical procedures",639
+471,"Chemotherapy",210
+472,"General health check-ups",584
+473,"Plastic surgery",700
+474,"Cataract surgery",109
+475,"X-rays, CT scans, MRI scans",452
+476,"Coronary artery bypass surgery",762
+477,"Medication management",663
+478,"Cosmetic procedures (e.g., Botox, fillers)",271
+479,"Kidney transplant",858
+480,"General health check-ups",369
+481,"Hemodynamic monitoring",521
+482,"Dementia care",334
+483,"Allergy testing",296
+484,"Anesthetic care during childbirth",773
+485,"Emergency surgical procedures",412
+486,"Intensive care management",999
+487,"General anesthesia for surgeries",715
+488,"Immunotherapy (allergy shots)",277
+489,"Retinal surgery",495
+490,"Kidney transplant",556
+491,"Dementia care",783
+492,"Liver biopsy",676
+493,"Electroconvulsive therapy (ECT)",540
+494,"General surgery",134
+495,"Cosmetic procedures (e.g., Botox, fillers)",820
+496,"Laser therapy for skin conditions",280
+497,"Immunotherapy (allergy shots)",745
+498,"Allergy testing",208
+499,"Epidural analgesia during labor",778
+500,"Electroconvulsive therapy (ECT)",622
+501,"Liver biopsy",328
+502,"MRI for brain imaging",214
+503,"Immunotherapy (allergy shots)",228
+504,"Laser therapy for skin conditions",654
+505,"Cataract surgery",853
+506,"Hormone replacement therapy",439
+507,"Radiation therapy",238
+508,"Symptom management for end-of-life care",392
+509,"Immunotherapy (allergy shots)",390
+510,"LASIK eye surgery",765
+511,"Interventional radiology procedures",991
+512,"Comprehensive geriatric assessment",742
+513,"Trauma resuscitation",316
+514,"LASIK eye surgery",132
+515,"Endoscopy",218
+516,"General surgery",199
+517,"Sedation for minor procedures",789
+518,"Immunizations",489
+519,"Dementia care",823
+520,"Anesthetic care during childbirth",352
+521,"Retinal surgery",926
+522,"Cataract surgery",984
+523,"Insulin pump management for diabetes",804
+524,"X-rays, CT scans, MRI scans",773
+525,"Coronary artery bypass surgery",715
+526,"EEG (Electroencephalogram)",161
+527,"X-rays, CT scans, MRI scans",976
+528,"Sedation for minor procedures",448
+529,"Liver biopsy",685
+530,"Psychotherapy",887
+531,"General health check-ups",991
+532,"Chronic disease management",362
+533,"Anesthetic care during childbirth",237
+534,"Hemodynamic monitoring",434
+535,"Tonsillectomy and adenoidectomy",398
+536,"EEG (Electroencephalogram)",918
+537,"Polypharmacy management",113
+538,"Dermatologic surgery",511
+539,"Epidural anesthesia for pain management",913
+540,"Rhinoplasty",185
+541,"Cataract surgery",339
+542,"Liver biopsy",470
+543,"Hormone replacement therapy",147
+544,"Allergy testing",190
+545,"Advanced cardiac life support",190
+546,"Advanced cardiac life support",759
+547,"Dermatologic surgery",278
+548,"Dermatologic surgery",690
+549,"Chemotherapy",730
+550,"Comprehensive geriatric assessment",800
+551,"Cosmetic procedures (e.g., Botox, fillers)",197
+552,"Colonoscopy",111
+553,"Advanced cardiac life support",165
+554,"EEG (Electroencephalogram)",185
+555,"Kidney transplant",113
+556,"General anesthesia for surgeries",264
+557,"Electroconvulsive therapy (ECT)",366
+558,"Interventional radiology procedures",141
+559,"Insulin pump management for diabetes",708
+560,"General anesthesia for surgeries",405
+561,"Immunotherapy (allergy shots)",845
+562,"Sedation for minor procedures",111
+563,"Rhinoplasty",317
+564,"Laser therapy for skin conditions",810
+565,"Cosmetic procedures (e.g., Botox, fillers)",405
+566,"Cataract surgery",680
+567,"Dementia care",801
+568,"LASIK eye surgery",874
+569,"Comprehensive geriatric assessment",593
+570,"Plastic surgery",259
+571,"Comprehensive geriatric assessment",532
+572,"Chemotherapy",316
+573,"Advanced cardiac life support",836
+574,"General anesthesia for surgeries",154
+575,"Mechanical ventilation",154
+576,"Hemodynamic monitoring",140
+577,"Pediatric surgery",392
+578,"Cochlear implant surgery",545
+579,"Symptom management for end-of-life care",780
+580,"Coronary artery bypass surgery",459
+581,"Allergy testing",130
+582,"Colonoscopy",577
+583,"Anesthetic care during childbirth",396
+584,"X-rays, CT scans, MRI scans",120
+585,"Interventional radiology procedures",419
+586,"Immunizations",182
+587,"Hormone replacement therapy",298
+588,"Polypharmacy management",337
+589,"Comprehensive geriatric assessment",140
+590,"Radiation therapy",966
+591,"Plastic surgery",914
+592,"Thyroid biopsy",961
+593,"Anesthetic care during childbirth",191
+594,"Well-child check-ups",411
+595,"Interventional radiology procedures",636
+596,"Chronic disease management",325
+597,"Cataract surgery",498
+598,"X-rays, CT scans, MRI scans",348
+599,"Cochlear implant surgery",303
+600,"Insulin pump management for diabetes",144
+601,"Advanced cardiac life support",981
+602,"Anesthetic care during childbirth",609
+603,"Emotional and spiritual support",959
+604,"Dementia care",974
+605,"Allergy testing",158
+606,"General health check-ups",408
+607,"Dementia care",795
+608,"Emergency surgical procedures",168
+609,"Cataract surgery",652
+610,"Psychotherapy",276
+611,"Symptom management for end-of-life care",154
+612,"Immunizations",884
+613,"LASIK eye surgery",751
+614,"Lumbar puncture",589
+615,"Colonoscopy",748
+616,"Well-child check-ups",860
+617,"Mechanical ventilation",674
+618,"Allergy testing",313
+619,"Cosmetic procedures (e.g., Botox, fillers)",132
+620,"Comprehensive geriatric assessment",270
+621,"Chemotherapy",524
+622,"Coronary artery bypass surgery",175
+623,"Nephrectomy",931
+624,"Medication management",559
+625,"Lumbar puncture",860
+626,"Emergency surgical procedures",758
+627,"Intensive care management",107
+628,"LASIK eye surgery",177
+629,"Psychotherapy",363
+630,"Advanced cardiac life support",821
+631,"Thyroid biopsy",987
+632,"Cataract surgery",517
+633,"Allergy testing",393
+634,"Medication management",328
+635,"LASIK eye surgery",593
+636,"Chemotherapy",620
+637,"Radiation therapy",734
+638,"Cochlear implant surgery",349
+639,"Lumbar puncture",574
+640,"Dementia care",570
+641,"Coronary artery bypass surgery",805
+642,"Electroconvulsive therapy (ECT)",137
+643,"Kidney transplant",747
+644,"Emotional and spiritual support",514
+645,"Minor surgical procedures",424
+646,"Trauma resuscitation",813
+647,"Cochlear implant surgery",989
+648,"Anesthetic care during childbirth",753
+649,"Thyroid biopsy",530
+650,"Endoscopy",711
+651,"Advanced cardiac life support",513
+652,"Cataract surgery",547
+653,"Electroconvulsive therapy (ECT)",150
+654,"Polypharmacy management",206
+655,"Immunotherapy (allergy shots)",300
+656,"Radiation therapy",917
+657,"Coronary artery bypass surgery",404
+658,"Dermatologic surgery",562
+659,"Immunizations",724
+660,"Dialysis",637
+661,"Comprehensive geriatric assessment",827
+662,"Hemodynamic monitoring",346
+663,"Cosmetic procedures (e.g., Botox, fillers)",958
+664,"Allergy testing",228
+665,"X-rays, CT scans, MRI scans",133
+666,"Endoscopy",924
+667,"Coronary artery bypass surgery",994
+668,"Emergency surgical procedures",258
+669,"Insulin pump management for diabetes",455
+670,"Advanced cardiac life support",219
+671,"Emergency surgical procedures",288
+672,"Interventional radiology procedures",676
+673,"Intensive care management",756
+674,"General surgery",329
+675,"Surgical oncology",414
+676,"Dermatologic surgery",465
+677,"Emergency surgical procedures",196
+678,"X-rays, CT scans, MRI scans",767
+679,"Angioplasty and stent placement",369
+680,"Comprehensive geriatric assessment",605
+681,"Minor surgical procedures",835
+682,"Cataract surgery",763
+683,"Nephrectomy",743
+684,"Coronary artery bypass surgery",348
+685,"Thyroid biopsy",844
+686,"General health check-ups",830
+687,"Dermatologic surgery",651
+688,"Anesthetic care during childbirth",568
+689,"Laser therapy for skin conditions",959
+690,"General anesthesia for surgeries",512
+691,"Laser therapy for skin conditions",524
+692,"Liver biopsy",572
+693,"Endoscopy",653
+694,"Lumbar puncture",103
+695,"Colonoscopy",208
+696,"Angioplasty and stent placement",442
+697,"Rhinoplasty",253
+698,"Chemotherapy",254
+699,"Minor surgical procedures",499
+700,"Endoscopy",133
+701,"Comprehensive geriatric assessment",681
+702,"Allergy testing",168
+703,"Hormone replacement therapy",255
+704,"EEG (Electroencephalogram)",410
+705,"General surgery",771
+706,"Sedation for minor procedures",833
+707,"Retinal surgery",177
+708,"Cataract surgery",698
+709,"Anesthetic care during childbirth",654
+710,"Plastic surgery",346
+711,"Electroconvulsive therapy (ECT)",689
+712,"Angioplasty and stent placement",178
+713,"Advanced cardiac life support",448
+714,"Cataract surgery",643
+715,"Hormone replacement therapy",294
+716,"Dialysis",805
+717,"Cochlear implant surgery",763
+718,"Emergency surgical procedures",777
+719,"Chemotherapy",338
+720,"General surgery",859
+721,"Angioplasty and stent placement",398
+722,"Endoscopy",268
+723,"Emergency surgical procedures",513
+724,"Allergy testing",414
+725,"Hemodynamic monitoring",812
+726,"Intensive care management",164
+727,"Emotional and spiritual support",895
+728,"Allergy testing",349
+729,"Dementia care",108
+730,"EEG (Electroencephalogram)",577
+731,"Pacemaker implantation",974
+732,"Laser therapy for skin conditions",258
+733,"Immunotherapy (allergy shots)",410
+734,"Immunotherapy (allergy shots)",692
+735,"Epidural anesthesia for pain management",339
+736,"Sedation for minor procedures",809
+737,"Sedation for minor procedures",135
+738,"Sedation for minor procedures",456
+739,"Electroconvulsive therapy (ECT)",728
+740,"General surgery",766
+741,"General surgery",814
+742,"Psychotherapy",769
+743,"Intensive care management",846
+744,"Laser therapy for skin conditions",126
+745,"Rhinoplasty",353
+746,"Tonsillectomy and adenoidectomy",611
+747,"Hemodynamic monitoring",277
+748,"Immunotherapy (allergy shots)",864
+749,"Pediatric surgery",376
+750,"General anesthesia for surgeries",948
+751,"Well-child check-ups",556
+752,"Thyroid biopsy",305
+753,"Immunotherapy (allergy shots)",482
+754,"Pediatric surgery",958
+755,"General surgery",705
+756,"Tonsillectomy and adenoidectomy",692
+757,"Pediatric surgery",900
+758,"Well-child check-ups",350
+759,"X-rays, CT scans, MRI scans",589
+760,"Sedation for minor procedures",227
+761,"Endoscopy",227
+762,"Hemodynamic monitoring",934
+763,"Medication management",160
+764,"Sedation for minor procedures",462
+765,"Sedation for minor procedures",430
+766,"Immunotherapy (allergy shots)",363
+767,"Liver biopsy",422
+768,"Medication management",768
+769,"Medication management",303
+770,"Endoscopy",581
+771,"Polypharmacy management",790
+772,"Surgical oncology",398
+773,"LASIK eye surgery",829
+774,"Intensive care management",216
+775,"X-rays, CT scans, MRI scans",480
+776,"MRI for brain imaging",436
+777,"Minor surgical procedures",963
+778,"Endoscopy",647
+779,"General surgery",926
+780,"Lumbar puncture",236
+781,"Tonsillectomy and adenoidectomy",222
+782,"Psychotherapy",313
+783,"Kidney transplant",882
+784,"Orthopedic surgery",293
+785,"Rhinoplasty",538
+786,"Symptom management for end-of-life care",740
+787,"Psychotherapy",212
+788,"Mechanical ventilation",506
+789,"Lumbar puncture",858
+790,"Immunizations",770
+791,"Liver biopsy",534
+792,"Psychotherapy",123
+793,"X-rays, CT scans, MRI scans",358
+794,"Laser therapy for skin conditions",524
+795,"Immunotherapy (allergy shots)",882
+796,"Minor surgical procedures",806
+797,"Orthopedic surgery",410
+798,"Polypharmacy management",468
+799,"Pacemaker implantation",918
+800,"Polypharmacy management",361
+801,"Insulin pump management for diabetes",895
+802,"Retinal surgery",301
+803,"Psychotherapy",353
+804,"Immunizations",228
+805,"Interventional radiology procedures",186
+806,"General health check-ups",440
+807,"MRI for brain imaging",185
+808,"Well-child check-ups",227
+809,"Well-child check-ups",585
+810,"Orthopedic surgery",539
+811,"Epidural anesthesia for pain management",985
+812,"Pediatric surgery",457
+813,"Pacemaker implantation",946
+814,"Retinal surgery",474
+815,"Intensive care management",333
+816,"Well-child check-ups",851
+817,"Kidney transplant",636
+818,"MRI for brain imaging",161
+819,"Medication management",142
+820,"Pediatric surgery",403
+821,"Psychotherapy",205
+822,"X-rays, CT scans, MRI scans",494
+823,"Symptom management for end-of-life care",359
+824,"General surgery",167
+825,"Interventional radiology procedures",718
+826,"LASIK eye surgery",882
+827,"Medication management",744
+828,"Well-child check-ups",863
+829,"Laser therapy for skin conditions",700
+830,"Plastic surgery",808
+831,"Sedation for minor procedures",683
+832,"Plastic surgery",699
+833,"MRI for brain imaging",711
+834,"Intensive care management",233
+835,"Emergency surgical procedures",645
+836,"General surgery",905
+837,"Immunizations",402
+838,"Nephrectomy",417
+839,"X-rays, CT scans, MRI scans",801
+840,"Liver biopsy",112
+841,"Well-child check-ups",822
+842,"Dementia care",459
+843,"Hormone replacement therapy",446
+844,"Symptom management for end-of-life care",706
+845,"Nephrectomy",954
+846,"Trauma resuscitation",661
+847,"Nephrectomy",888
+848,"X-rays, CT scans, MRI scans",150
+849,"Coronary artery bypass surgery",948
+850,"Trauma resuscitation",140
+851,"Coronary artery bypass surgery",779
+852,"Emotional and spiritual support",255
+853,"Immunotherapy (allergy shots)",748
+854,"Minor surgical procedures",133
+855,"Kidney transplant",377
+856,"Lumbar puncture",502
+857,"LASIK eye surgery",999
+858,"Rhinoplasty",781
+859,"General surgery",984
+860,"Insulin pump management for diabetes",339
+861,"Dementia care",381
+862,"Lumbar puncture",695
+863,"Sedation for minor procedures",253
+864,"General surgery",154
+865,"Intensive care management",756
+866,"Pacemaker implantation",971
+867,"Dementia care",913
+868,"Liver biopsy",653
+869,"Hemodynamic monitoring",199
+870,"Cataract surgery",881
+871,"Colonoscopy",425
+872,"General health check-ups",473
+873,"Insulin pump management for diabetes",612
+874,"Retinal surgery",571
+875,"Hormone replacement therapy",351
+876,"LASIK eye surgery",417
+877,"Pacemaker implantation",495
+878,"Insulin pump management for diabetes",815
+879,"Radiation therapy",537
+880,"Dementia care",593
+881,"Polypharmacy management",460
+882,"Laser therapy for skin conditions",559
+883,"Mechanical ventilation",294
+884,"Well-child check-ups",701
+885,"Orthopedic surgery",190
+886,"Hormone replacement therapy",613
+887,"Well-child check-ups",846
+888,"Rhinoplasty",913
+889,"Liver biopsy",417
+890,"Tonsillectomy and adenoidectomy",926
+891,"Sedation for minor procedures",616
+892,"Intensive care management",537
+893,"General health check-ups",551
+894,"Laser therapy for skin conditions",778
+895,"Endoscopy",534
+896,"Psychotherapy",788
+897,"X-rays, CT scans, MRI scans",480
+898,"Rhinoplasty",543
+899,"Tonsillectomy and adenoidectomy",314
+900,"Allergy testing",121
+901,"Cataract surgery",229
+902,"Epidural analgesia during labor",197
+903,"Medication management",645
+904,"Laser therapy for skin conditions",373
+905,"Emergency surgical procedures",573
+906,"X-rays, CT scans, MRI scans",427
+907,"Minor surgical procedures",263
+908,"Tonsillectomy and adenoidectomy",365
+909,"Hormone replacement therapy",299
+910,"Pediatric surgery",947
+911,"Insulin pump management for diabetes",399
+912,"Surgical oncology",188
+913,"Kidney transplant",322
+914,"Hormone replacement therapy",756
+915,"Minor surgical procedures",131
+916,"Rhinoplasty",212
+917,"Radiation therapy",242
+918,"Liver biopsy",1000
+919,"Symptom management for end-of-life care",966
+920,"Cosmetic procedures (e.g., Botox, fillers)",465
+921,"Orthopedic surgery",665
+922,"Dermatologic surgery",830
+923,"Dialysis",756
+924,"Hormone replacement therapy",392
+925,"Kidney transplant",454
+926,"Immunotherapy (allergy shots)",310
+927,"LASIK eye surgery",731
+928,"MRI for brain imaging",175
+929,"Chemotherapy",520
+930,"Interventional radiology procedures",289
+931,"Immunotherapy (allergy shots)",464
+932,"Pediatric surgery",798
+933,"Tonsillectomy and adenoidectomy",725
+934,"Liver biopsy",277
+935,"Orthopedic surgery",556
+936,"Interventional radiology procedures",115
+937,"Polypharmacy management",999
+938,"MRI for brain imaging",801
+939,"Kidney transplant",202
+940,"Retinal surgery",442
+941,"Lumbar puncture",776
+942,"Orthopedic surgery",363
+943,"Pediatric surgery",969
+944,"Epidural analgesia during labor",637
+945,"Immunotherapy (allergy shots)",808
+946,"Immunizations",140
+947,"Polypharmacy management",481
+948,"Retinal surgery",375
+949,"Surgical oncology",701
+950,"Trauma resuscitation",648
+951,"Rhinoplasty",678
+952,"Well-child check-ups",571
+953,"Thyroid biopsy",228
+954,"Thyroid biopsy",459
+955,"Minor surgical procedures",404
+956,"General health check-ups",645
+957,"X-rays, CT scans, MRI scans",808
+958,"Surgical oncology",305
+959,"Hormone replacement therapy",639
+960,"Mechanical ventilation",287
+961,"Polypharmacy management",282
+962,"Symptom management for end-of-life care",101
+963,"Medication management",584
+964,"Insulin pump management for diabetes",674
+965,"Plastic surgery",840
+966,"X-rays, CT scans, MRI scans",522
+967,"Orthopedic surgery",103
+968,"Trauma resuscitation",321
+969,"Trauma resuscitation",484
+970,"Pediatric surgery",525
+971,"Plastic surgery",228
+972,"Rhinoplasty",100
+973,"Kidney transplant",326
+974,"Retinal surgery",191
+975,"Radiation therapy",650
+976,"EEG (Electroencephalogram)",683
+977,"Surgical oncology",840
+978,"Laser therapy for skin conditions",211
+979,"Trauma resuscitation",372
+980,"Trauma resuscitation",116
+981,"Endoscopy",237
+982,"Kidney transplant",125
+983,"Sedation for minor procedures",966
+984,"Chronic disease management",206
+985,"Plastic surgery",343
+986,"LASIK eye surgery",702
+987,"Retinal surgery",756
+988,"Surgical oncology",504
+989,"General surgery",489
+990,"Dermatologic surgery",545
+991,"Mechanical ventilation",872
+992,"Colonoscopy",204
+993,"Dermatologic surgery",491
+994,"Mechanical ventilation",359
+995,"Epidural anesthesia for pain management",159
+996,"EEG (Electroencephalogram)",268
+997,"Pacemaker implantation",308
+998,"Hemodynamic monitoring",658
+999,"Radiation therapy",408
+1000,"Mechanical ventilation",574
+1001,"Thyroid biopsy",393
+1002,"Sedation for minor procedures",228
+1003,"Medication management",411
+1004,"Plastic surgery",725
+1005,"Surgical oncology",579
+1006,"Orthopedic surgery",874
+1007,"Thyroid biopsy",771
+1008,"Comprehensive geriatric assessment",781
+1009,"Dementia care",101
+1010,"Retinal surgery",590
+1011,"Cochlear implant surgery",693
+1012,"Orthopedic surgery",143
+1013,"Angioplasty and stent placement",507
+1014,"Orthopedic surgery",473
+1015,"Interventional radiology procedures",984
+1016,"Intensive care management",312
+1017,"Laser therapy for skin conditions",316
+1018,"Anesthetic care during childbirth",874
+1019,"General health check-ups",132
+1020,"Colonoscopy",677
+1021,"Psychotherapy",593
+1022,"Intensive care management",254
+1023,"Dermatologic surgery",880
+1024,"Immunizations",857
+1025,"Radiation therapy",812
+1026,"Immunizations",268
+1027,"X-rays, CT scans, MRI scans",466
+1028,"Coronary artery bypass surgery",602
+1029,"Surgical oncology",195
+1030,"Thyroid biopsy",839
+1031,"X-rays, CT scans, MRI scans",935
+1032,"Dermatologic surgery",525
+1033,"Dermatologic surgery",670
+1034,"Immunizations",183
+1035,"MRI for brain imaging",333
+1036,"Cosmetic procedures (e.g., Botox, fillers)",748
+1037,"General surgery",591
+1038,"Intensive care management",427
+1039,"Medication management",281
+1040,"Orthopedic surgery",135
+1041,"Minor surgical procedures",672
+1042,"Surgical oncology",272
+1043,"Well-child check-ups",917
+1044,"Sedation for minor procedures",990
+1045,"Orthopedic surgery",945
+1046,"Surgical oncology",719
+1047,"Rhinoplasty",166
+1048,"Medication management",360
+1049,"Surgical oncology",102
+1050,"Interventional radiology procedures",750
+1051,"Epidural analgesia during labor",688
+1052,"X-rays, CT scans, MRI scans",666
+1053,"Advanced cardiac life support",865
+1054,"Interventional radiology procedures",634
+1055,"Insulin pump management for diabetes",633
+1056,"Plastic surgery",167
+1057,"Cosmetic procedures (e.g., Botox, fillers)",632
+1058,"Plastic surgery",699
+1059,"Orthopedic surgery",945
+1060,"Polypharmacy management",459
+1061,"Emotional and spiritual support",667
+1062,"Epidural analgesia during labor",617
+1063,"Thyroid biopsy",862
+1064,"X-rays, CT scans, MRI scans",156
+1065,"Interventional radiology procedures",993
+1066,"Trauma resuscitation",538
+1067,"EEG (Electroencephalogram)",894
+1068,"Liver biopsy",393
+1069,"Sedation for minor procedures",901
+1070,"Interventional radiology procedures",450
+1071,"MRI for brain imaging",739
+1072,"Thyroid biopsy",962
+1073,"Dementia care",983
+1074,"Insulin pump management for diabetes",186
+1075,"Colonoscopy",169
+1076,"Orthopedic surgery",988
+1077,"Rhinoplasty",896
+1078,"Plastic surgery",851
+1079,"LASIK eye surgery",215
+1080,"Psychotherapy",664
+1081,"Medication management",365
+1082,"Pacemaker implantation",545
+1083,"Emotional and spiritual support",715
+1084,"Intensive care management",793
+1085,"Tonsillectomy and adenoidectomy",538
+1086,"Surgical oncology",238
+1087,"MRI for brain imaging",730
+1088,"Pediatric surgery",567
+1089,"Radiation therapy",721
+1090,"Minor surgical procedures",145
+1091,"Immunotherapy (allergy shots)",449
+1092,"Psychotherapy",917
+1093,"Surgical oncology",555
+1094,"MRI for brain imaging",253
+1095,"Rhinoplasty",824
+1096,"Psychotherapy",893
+1097,"EEG (Electroencephalogram)",650
+1098,"Laser therapy for skin conditions",448
+1099,"Minor surgical procedures",209
